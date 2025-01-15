@@ -8,7 +8,7 @@
 - 💬 Ask me about ... -->
 - 📬 How to reach me:
 
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jeanpatrick.esquibal@gmail.com)
+    [![jeanpatrick.esquibal@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jeanpatrick.esquibal@gmail.com)
 <!-- 😄 Pronouns: ... -->
 - 💡 Fun fact: Pepsi is made with water
 
