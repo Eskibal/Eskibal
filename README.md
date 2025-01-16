@@ -9,8 +9,8 @@
 
 
 # 📬 Contact me
-![jeanpatrick.esquibal@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+> <h3 style="text-decoration:none"> jeanpatrick.esquibal@gmail.com </h3>
 
 
 # 📱 Socials
