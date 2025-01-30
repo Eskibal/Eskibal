@@ -7,7 +7,7 @@
 
 
 ## 📥 Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanpatrick.esquibal@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 > <p style="text-decoration:none"/> jeanpatrick.esquibal@gmail.com 
 
 
