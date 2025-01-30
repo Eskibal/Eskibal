@@ -2,13 +2,13 @@
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning HTML, CSS, Java and PHP
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pat_esquibal/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-patrick-esquibal-surop-b1a300306) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eskibal36) 
 
 
 ## 📥 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanpatrick.esquibal@gmail.com)
-> jeanpatrick.esquibal@gmail.com
+> <p style="text-decoration:none"/> jeanpatrick.esquibal@gmail.com 
 
 
 # 💻 Tech Stack:
