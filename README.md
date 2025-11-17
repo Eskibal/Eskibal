@@ -8,7 +8,7 @@
 
 ## 📥 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-> <p style="text-decoration:none"/> jeanpatrick.esquibal@gmail.com 
+> <p/>jeanpatrick.esquibal@gmail.com
 
 
 # 💻 Tech Stack:
