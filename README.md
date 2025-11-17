@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning HTML, CSS, Java and PHP
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java, C# in Unity, Dart Flutter and Python
 
 
 ## 🌐 Socials
