@@ -34,6 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Eskibal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://media.tenor.com/NRrJVgOwgiYAAAAi/drums-windows-98.gif">
+<img src="https://media.tenor.com/NRrJVgOwgiYAAAAi/drums-windows-98.gif" style="width:100px;height:100px;"> <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" style="width:100px;height:100px;">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
