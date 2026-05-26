@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java, Videogame developing in Unity and Flutter with Dart
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java, Videogame developing in Unity and Flutter
 
 
 ## 🌐 Socials
