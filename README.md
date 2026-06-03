@@ -2,12 +2,12 @@
 🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Java, Videogame developing in Unity and Flutter
 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/pat__esquibal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pat_esquibal/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-patrick-esquibal-surop-b1a300306) [![YouTube](https://img.shields.io/badge/Eskibal__-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eskibal36) 
+<!--## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-eskibal__-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/eskibal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-patrick-esquibal-surop-b1a300306) [![YouTube](https://img.shields.io/badge/YouTube-Eskibal__-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@eskibal36) -->
 
 
 ## 📥 Contact me
-[![Gmail](https://img.shields.io/badge/jeanpatrick.esquibal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanpatrick.esquibal@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jeanpatrick.esquibal@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d14836)](mailto:jeanpatrick.esquibal@gmail.com)
 
 
 # 💻 Tech Stack:
