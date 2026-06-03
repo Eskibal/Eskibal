@@ -16,19 +16,38 @@
 
 <!-- # <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="4.5%"><img src="https://www.tentrentals.com/images/animatedmailbox.gif"> -->
 
+# 🚀 Featured projects
+## 1. DentalPlus
+> Android application for the comprehensive management of dental clinics.
+
+🛠️ Technologies: 
+
+![Spring Boot - Hibernate](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose) 
+
+[![DentalPlus_Frontend](https://helio-github-stats.vercel.app/api/pin?username=Eskibal&repo=DentalPlus_Frontend&theme=default&hide_border=false&border_radius=4.5&card_width=466&show_owner=true)](https://nice-readme.vercel.app/repo-pins)
+[![DentalPlus_Backend](https://helio-github-stats.vercel.app/api/pin?username=Eskibal&repo=DentalPlus_Backend&theme=default&hide_border=false&border_radius=4.5&card_width=466&show_owner=true)](https://nice-readme.vercel.app/repo-pins)
+
+## 2. Knockout Zone
+🛠️ Technologies: 
+
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[![KnockOut_Zone](https://helio-github-stats.vercel.app/api/pin?username=Eskibal&repo=KnockOut_Zone&theme=default&hide_border=false&border_radius=4.5&card_width=466&show_owner=true)](https://nice-readme.vercel.app/repo-pins)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eskibal&theme=city_lights&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eskibal&theme=city_lights&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eskibal&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Eskibal&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Eskibal&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=Eskibal&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eskibal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![Eskibal trophies](https://github-profile-trophy-fork-two.vercel.app/?username=Eskibal)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eskibal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Eskibal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eskibal&icon=0&color=0)](https://visitcount.itsvg.in)
